@@ -1,0 +1,105 @@
+@font-face {
+    font-family: lemonMilkLight;
+    src: url(fonts/LEMONMILK-Light.otf);
+}
+
+@font-face {
+    font-family: lemonMilkRegular;
+    src: url(fonts/LEMONMILK-Regular.otf)
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    font-family: lemonMilkLight;
+    font-size: 25px;
+    letter-spacing: 3px;
+    margin: -10px;
+    line-height: 45px;
+    background-color: #ff5722;
+padding: 18px;
+}
+
+span {
+    font-size: 60px;
+    letter-spacing: 5px;
+    font-family: lemonMilkRegular;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-family: lemonMilkLight;
+    letter-spacing: 2px;
+    color: #fff;
+    background-color: #000;
+    margin: -10px;
+    margin-top: 50px;
+    margin-bottom: 0%;
+    padding: 0.1px;
+}
+
+div2 {
+    margin: 40px;
+    font-family: arial;
+    text-align: center;
+}
+
+.lemonMilk{
+    font-family: lemonMilkRegular;
+    letter-spacing: 2px;
+    font-size: 35px;
+    color: #ff5722;
+    margin-top: 0px;
+}
+
+.paragrafo {
+    margin-top: 0px;
+    padding-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family:'Lucida Sans';
+    text-align:center;
+    letter-spacing: 0.5px;
+    line-height: 25px;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 25px;
+    padding-top: 5px;
+    margin-bottom: -10px;
+    font-family: lemonMilkRegular;
+    color: #000;
+    font-size: 22px;
+    letter-spacing: 3px;
+}
+
+.welcome {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-family:'Lucida Sans';
+    text-align:center;
+    letter-spacing: 0.5px;
+    margin-top: 60px;
+}
+
+.links {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 45px;
+}
+
+.titulopaginas {
+    font-family: lemonMilkRegular;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 35px;
+    color: #ff5722;
+    padding-top: 20px;
+    padding-bottom: 3px;
+}
